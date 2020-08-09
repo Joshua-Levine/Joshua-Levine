@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Portfolio](Joshua-Levine/Joshua-Levine/portfolio/ACG2000_Users_Guide.pdf) "Allot Application Control Gateway "
+[Portfolio](https://github.com/Joshua-Levine/Joshua-Levine/raw/master/portfolio/ACG2000_Users_Guide.pdf.pdf) "Allot Application Control Gateway "
 
