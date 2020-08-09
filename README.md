@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [Branded product guide ](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/ACG2000_Users_Guide.pdf) "Allot Application Control Gateway "
 
-[Unbranded product guide ](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/ACG2000_Users_Guide.pdf) "Gateway DataReporter "
+[Unbranded product guide ](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/GW_DataReporter_Operation_Guide.pdf) "Gateway DataReporter "
