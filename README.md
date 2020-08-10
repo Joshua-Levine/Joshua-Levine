@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 #### My Portfolio
 
-[Branded product guide ](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/ACG2000_Users_Guide.pdf) "Allot Application Control Gateway "
+[Allot Application Control Gateway](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/ACG2000_Users_Guide.pdf) A branded product guide. This guide takes the user from on-site installation of a custom hardware solution through software suite configuration and first use.
 
-[Unbranded product guide ](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/GW_DataReporter_Operation_Guide.pdf) "Gateway DataReporter "
+[Gateway DataReporter](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/GW_DataReporter_Operation_Guide.pdf) An unbranded product guide. This guide focuses entirely on a software GUI running in a virtualized environment.
 
 #### My CV
 
