@@ -12,9 +12,9 @@ An answer: As a technical writer, I make even the most esoteric of technologies 
 - Familiar with **Madcap Flare**
 - A capable creator of **2d and 3d graphics**
 - Happy to edit **video content**
-- currently **looking to join your team**
+- currently **ready to join your team**
 
-You can see examples of my professional work on this site, and check me out on [LinkedIn](https://www.linkedin.com/in/j-levine/). You can reach me through Github or LinkedIn, or send me a whatsapp at zero five eight six eight five one seven two five. 
+You can see examples of my professional work on this site or check out employment history  on [LinkedIn](https://www.linkedin.com/in/j-levine/). I am reachable through Github or LinkedIn, or send you can send me a whatsapp at zero five eight six eight five one seven two five. I look forward to hearing from you.
 
 <!--
 **Joshua-Levine/Joshua-Levine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
