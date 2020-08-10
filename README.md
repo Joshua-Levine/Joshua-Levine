@@ -40,5 +40,3 @@ Here are some ideas to get you started:
 #### My CV
 
 [Curriculum Vitae](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/CV/Joshua_Levine_Curriculum_Vitae.pdf) 
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="j-levine"><a class="LI-simple-link" href='https://il.linkedin.com/in/j-levine?trk=profile-badge'>Joshua Levine</a></div>
