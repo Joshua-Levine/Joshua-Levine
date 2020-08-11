@@ -4,7 +4,7 @@ I'm a technical writer who knows technology benefits humanity.
 
 A question: How can technology help people who don't know how to use it?
 
-An answer:  I make sure that users know how to use what you have worked so hard to create. Tech is hard. I make it easy.
+An answer:  I make sure that users can use what you  create. Tech is hard. I make it easy. I'm a technical writer.
 
 #### I am:
 
