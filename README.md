@@ -4,7 +4,7 @@ I'm a technical writer who knows technology benefits humanity.
 
 A question: How can technology help people who don't know how to use it?
 
-An answer: Quality documentation empowers users to use what you create. Tech is hard. I make it easy. I'm a technical writer.
+An answer: It can't. You need quality documentation to empower your end users. Tech alone is hard. Tech with docs is easy. 
 
 #### I am:
 
