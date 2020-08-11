@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm a technical writer who believes technology is benefitting humanity. 
+I'm a technical writer who knows technology benefits humanity. 
 
-A question: How can people benefit from something unusable?
+A question: How can technology help people who don't know how to use it?
 
-An answer: As a technical writer, I make difficult technologies understandable to the user.  I make sure that users are able to easily use what you have worked so hard to create.
-
-Tech is hard. I make it easy.
+An answer:  I make sure that users know how to use what you have worked so hard to create. Tech is hard. I make it easy.
 
 #### I am:
 
