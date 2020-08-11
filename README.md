@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a technical writer who believes the purpose of technology is to benefit humanity. 
+I'm a technical writer who believes technology is benefitting humanity. 
 
-A question: How can one derive benefit from something unusable?
+A question: How can people benefit from something unusable?
 
-An answer: As a technical writer, I make even the most esoteric of technologies comprehensible to the user.  My calling is ensuring that end users are able to easily use what developers have worked so hard to create.
+An answer: As a technical writer, I make difficult technologies understandable to the user.  I make sure that users are able to easily use what you have worked so hard to create.
+
+Tech is hard. I make it easy.
 
 #### I am:
 
@@ -14,7 +16,7 @@ An answer: As a technical writer, I make even the most esoteric of technologies 
 - Happy to edit **video content**
 - Currently **ready to join your team**
 
-You can see examples of my professional work on this site or check out my employment history  on [LinkedIn](https://www.linkedin.com/in/j-levine/). I am easily reachable through LinkedIn. My phone number and email address are on my CV, if you prefer to get in touch that way.
+You can see examples of my professional work on this site or check out my employment history on [LinkedIn](https://www.linkedin.com/in/j-levine/). I am reachable through LinkedIn. My phone number and email address are on my CV, if you want to get in touch that way.
 
 <!--
 **Joshua-Levine/Joshua-Levine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,9 +35,9 @@ Here are some ideas to get you started:
 
 #### My Portfolio
 
-[Allot Application Control Gateway](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/ACG2000_Users_Guide.pdf) A branded product guide. This guide takes the user from on-site installation of a custom hardware solution through software suite configuration and first use.
+[Allot Application Control Gateway.](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/ACG2000_Users_Guide.pdf) A branded product guide. This guide takes the user from on-site installation of a custom hardware solution through software suite configuration and first use.
 
-[Gateway DataReporter](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/GW_DataReporter_Operation_Guide.pdf) An unbranded product guide. This guide focuses entirely on a software GUI running in a virtualized environment.
+[Gateway DataReporter.](https://github.com/Joshua-Levine/Joshua-Levine/blob/master/portfolio/GW_DataReporter_Operation_Guide.pdf) An unbranded product guide. This guide focuses entirely on a software GUI running in a virtualized environment.
 
 #### My CV
 
