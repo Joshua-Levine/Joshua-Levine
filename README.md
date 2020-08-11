@@ -14,7 +14,7 @@ An answer:  I make sure that users can use what you  create. Tech is hard. I mak
 - Happy to edit **video content**
 - Currently **ready to join your team**
 
-You can see examples of my professional work on this site or check out my employment history on [LinkedIn](https://www.linkedin.com/in/j-levine/). I am reachable through LinkedIn. My phone number and email address are on my CV, if you want to get in touch that way.
+You can see examples of my professional work below or check out my employment history on [LinkedIn](https://www.linkedin.com/in/j-levine/). My phone number and email address are on my CV, and I look forward to hearing from you.
 
 <!--
 **Joshua-Levine/Joshua-Levine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
