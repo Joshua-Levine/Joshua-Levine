@@ -14,7 +14,7 @@ An answer: As a technical writer, I make even the most esoteric of technologies 
 - Happy to edit **video content**
 - Currently **ready to join your team**
 
-You can see examples of my professional work on this site or check out employment history  on [LinkedIn](https://www.linkedin.com/in/j-levine/). I am reachable through LinkedIn. My phone number and email address are on my CV, if you prefer to use get in touch that way.
+You can see examples of my professional work on this site or check out my employment history  on [LinkedIn](https://www.linkedin.com/in/j-levine/). I am easily reachable through LinkedIn. My phone number and email address are on my CV, if you prefer to get in touch that way.
 
 <!--
 **Joshua-Levine/Joshua-Levine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
