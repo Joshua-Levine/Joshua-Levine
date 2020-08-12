@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm a technical writer who knows technology benefits humanity. 
+### Hi there 👋 
 
 A question: How can technology help people who don't know how to use it?
 
@@ -14,7 +12,7 @@ An answer: It can't. You need quality documentation to empower your end users. T
 - Happy to edit **video content**
 - Currently **ready to join your team**
 
-You can see examples of my professional work below or check out my employment history on [LinkedIn](https://www.linkedin.com/in/j-levine/). My phone number and email address are on my CV; I look forward to hearing from you.
+You can see examples of my professional work below or check out my employment history on [LinkedIn](https://www.linkedin.com/in/j-levine/). My phone number and email address are on my CV; I look forward to hearing from you. I'm a technical writer. Let me make your tech easy.
 
 <!--
 **Joshua-Levine/Joshua-Levine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
